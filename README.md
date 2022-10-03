@@ -1,3 +1,4 @@
+```
 LAMP-server:
 Services:
 1. cmd - service of server console
@@ -12,3 +13,4 @@ Services:
 4. quicksort - service is sorting array 
   Parameters:
     array(required) - nums is written divided by coma without space
+```
